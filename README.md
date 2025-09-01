@@ -1,6 +1,6 @@
 # EX NO: Cloud-account-set-up-and-services
-## Name : BHARANI KUMAR.S
-## Reg no: 212224230035
+## Name : SRIKAAVYAA T
+## Reg no: 212223230214
 ## Aim:
 To create an cloud account in AWS and to explore all of its services.
 
@@ -71,3 +71,6 @@ Services Overview:
 • Explore all the available services in AWS platform.
 
 ## Output:
+<img width="1900" height="922" alt="image" src="https://github.com/user-attachments/assets/bbd35acf-caee-4ffd-9bfe-0fd2987093d9" />
+
+
