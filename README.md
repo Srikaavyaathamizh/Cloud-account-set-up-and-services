@@ -5,10 +5,10 @@
 To create an cloud account in AWS and to explore all of its services.
 
 ## Procedure
-## Step 1: Go to the AWS Website
+## Step 1: Go to the AWS or Azure Website
 • Visit https://aws.amazon.com
 
-• Click “Create an AWS Account” in the top right corner.
+• Click “Create an AWS Account or Azure Account” in the top right corner.
 
 ## Step 2: Enter Account Information
 • Email address – Use a valid email you have access to.
